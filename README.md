@@ -43,8 +43,7 @@ Then for both kinds of programs, use uds_add(&address, event_type) to record the
 - Java program: start JVM with the option "-XX:+PreserveFramePointer", which has been added since JDK8u60.
 
 ## Compile wPerf kernel module and recorder:
-- Run make in wPerf/module/
-- Run make in wPerf/recorder/
+Run make in the repo's root directory.
 
 ## Test your application with wPerf:
 After you start your application, you can run wPerf/recorder/record.sh and follow the instructions.
