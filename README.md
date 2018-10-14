@@ -54,7 +54,7 @@ Then use wPerf/analyzer/knot.sh to start the python program identifying the bott
 Use 'g' with the bottleneck component number to generate a csv file, which contains the bottleneck.
 
 ## Show time:
-Use our [online graph presenter](https://osusyslab.github.io/wperf/) with your result file and check out the bottleneck in that knot.
+Use our [online graph explorer](https://osusyslab.github.io/wperf/) with your result file and check out the bottleneck in that knot.
 
 ## Contact
 If you have any questions, please contact Fang at zhou.1250@osu.edu, Yifan at gan.101@osu.edu, Sixiang at ma.1189@osu.edu, and Yang at wang.7564@osu.edu
