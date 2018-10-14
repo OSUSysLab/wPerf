@@ -13,7 +13,7 @@ To identify waiting events that limit the application’s throughput, wPerf uses
 the local impact of a waiting event and uses wait-for graph to compute whether such impact can reach other threads.
 
 
-Check our papers for more details: [wPerf: Generic Off-CPU Analysis to Identify Bottleneck Waiting Events](https://www.usenix.org/system/files/osdi18-zhou.pdf)
+Check our papers for more details: [wPerf: Generic Off-CPU Analysis to Identify Bottleneck Waiting Events](https://www.usenix.org/system/files/osdi18-zhou.pdf), OSDI 2018.
 
 ## Requirements:
 - [Kernel](http://www.kernel.org/): version 4.4 and newer. You also need to enable the KProbe and CONFIG_SCHEDSTATS features.
