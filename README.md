@@ -56,5 +56,9 @@ Use 'g' with the bottleneck component number to generate a csv file, which conta
 ## Show time:
 Use our [online graph explorer](https://osusyslab.github.io/wperf/) with your result file and check out the bottleneck in that knot.
 
+As one can see from the screenshot, the left part shows the graph information and the right part shows the wait-for graph.
+### Screenshot:
+![Screenshot of wPerf](https://https://github.com/OSUSysLab/OSUSysLab.github.io/blob/master/wperf/wPerf_screenshot.png)
+
 ## Contact
 If you have any questions, please contact Fang at zhou.1250@osu.edu, Yifan at gan.101@osu.edu, Sixiang at ma.1189@osu.edu, and Yang at wang.7564@osu.edu
